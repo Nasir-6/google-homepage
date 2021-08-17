@@ -57,9 +57,25 @@ span.icon-grey:hover{
 
 
 
+
+
+
 .main{
     margin: auto;
+    display: flex;
+    flex-direction: column;
 }
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
 
 
 footer{
