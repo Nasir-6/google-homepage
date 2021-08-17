@@ -14,15 +14,16 @@ a{
     color: inherit
 }
 
-
+a:hover{
+    text-decoration: underline;
+}
 
 
 
 nav{
     display: flex;
     padding: 15px;
-    /* background: #e66b55; */
-    color: black;
+    color: rgba(0,0,0,0.87);
 
 }
 
