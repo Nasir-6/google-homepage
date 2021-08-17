@@ -8,6 +8,8 @@ html, body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
+
 nav{
     display: flex;
     padding: 10px;
@@ -35,17 +37,18 @@ nav{
 footer{
     display: flex;
     margin-top: auto;
-    padding: 10px;
-    
+    padding: 10px 20px;
+    background-color: #F3F3F3;
+    border-top: 1px solid #E7E7E7 ;
 }
 
 .footer-left{
     display: flex;
     margin-right: auto;
-    gap: 10px;
+    gap: 20px;
 }
 
 .footer-right{
     display: flex;
-    gap: 10px;
+    gap: 20px;
 }
