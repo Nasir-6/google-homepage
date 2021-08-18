@@ -70,12 +70,16 @@ span.icon-grey:hover{
     margin: auto;
     display: flex;
     flex-direction: column;
+    gap: 35px;
 }
 
 form{
     display: flex;
     flex-direction: column;
+    gap: 25px;
 }
+
+
 
 
 
