@@ -85,11 +85,26 @@ form{
 
 
 .search-field{
-    background-color:red;
     height: 45px;
     width: min(582px,95%);
     margin: auto;
+    border-radius: 22.5px;
+    display: flex;
+    justify-content: center;
 }
+
+input{
+    width: 90%;
+}
+
+.search-icon{
+    padding: 10px;
+}
+
+.google-mic-icon{
+    padding: 10px 15px;
+}
+
 
 
 
