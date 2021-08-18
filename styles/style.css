@@ -22,7 +22,7 @@ a:hover{
 
 nav{
     display: flex;
-    padding: 15px;
+    padding: 5px 20px;
     color: rgba(0,0,0,0.87);
 
 }
@@ -153,7 +153,7 @@ button:hover{
 footer{
     display: flex;
     margin-top: auto;
-    height: 40px;how
+    height: 40px;
     padding: 10px 20px;
     background-color: #F3F3F3;
     border-top: 1px solid #E7E7E7 ;
