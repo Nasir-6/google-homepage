@@ -171,3 +171,16 @@ footer{
 .footer-left{
     margin-right: auto;
 }
+
+
+
+@media screen and (max-width: 520px) {
+    footer {
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .footer-left{
+        margin-right: 0px;
+    }
+  }
