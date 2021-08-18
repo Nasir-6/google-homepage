@@ -78,9 +78,20 @@ span.icon-grey:hover{
 form{
     display: flex;
     flex-direction: column;
+    align-content: center;
     gap: 25px;
     width: 100%;
 }
+
+
+.search-field{
+    background-color:red;
+    height: 45px;
+    width: min(582px,95%);
+    margin: auto;
+}
+
+
 
 .buttons{
     display: flex;
@@ -114,7 +125,7 @@ button:hover{
 footer{
     display: flex;
     margin-top: auto;
-    height: 40px;
+    height: 40px;how
     padding: 10px 20px;
     background-color: #F3F3F3;
     border-top: 1px solid #E7E7E7 ;
