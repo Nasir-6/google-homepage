@@ -11,7 +11,7 @@ html, body{
 
 a{
     text-decoration: none;
-    color: inherit
+    color: inherit;
 }
 
 a:hover{
@@ -38,11 +38,14 @@ nav{
 }
 
 span.icon-grey {
-    color: #818181
+    color: #818181;
+    padding:5px;
 }
 
 span.icon-grey:hover{
-    color: black
+    color: black;
+    background-color: rgb(238, 236, 236);
+    border-radius: 50%;
 }
 
 .nav-left{
@@ -52,9 +55,12 @@ span.icon-grey:hover{
 
 .user-logo{
     border-radius: 50%;
+    padding: 2.5px;
 }
 
-
+.user-logo:hover{
+    background-color: rgb(238, 236, 236);
+}
 
 
 
